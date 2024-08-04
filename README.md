@@ -32,11 +32,11 @@ I am always open to collaborating on projects. Find out more about me & feel fre
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-![Ioannis' Github Stats](https://github-readme-stats.vercel.app/api?username=Yaythegreatgit&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
+![Ioannis' Github Stats](https://github-readme-stats.vercel.app/api?username=IoannisYpsilantis&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaythegreatgit&count_private=true&hide=TeX&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IoannisYpsilantis&count_private=true&hide=TeX&layout=compact&langs_count=8)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yaythegreatgit.Yaythegreatgit)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IoannisYpsilantis.IoannisYpsilantis)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShlomoStept%2FShlomoStept&count_bg=%2385C8F7&title_bg=%23A1A2B0&icon=github.svg&icon_color=%23E7E7E7&title=Your+ViewCount&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
