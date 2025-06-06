@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 -->
-
-Hello, I'm Ioannis, currently I am a Senior at [Stevens Institute of Technology](https://www.stevens.edu/), studying Computer Science, with a focus on Machine Learning and Quantitative Finance.
-
 I am always open to collaborating on projects. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ioannis-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ioannis-ypsilantis-42947b254/)](https://www.linkedin.com/in/ioannis-ypsilantis-42947b254/)
@@ -16,7 +13,7 @@ I am always open to collaborating on projects. Find out more about me & feel fre
 [![My Internship](https://img.shields.io/badge/My%20job-hanover-success?style=style=for-the-badge&logo=micro]&logoColor=white)]((https://www.hanover.com/))
 -->
 
-## languages and tools:
+## Languages and tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=ffdd54)
@@ -32,11 +29,13 @@ I am always open to collaborating on projects. Find out more about me & feel fre
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+
+
 ![Ioannis' Github Stats](https://github-readme-stats.vercel.app/api?username=IoannisYpsilantis&count_private=true&show_icons=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IoannisYpsilantis&count_private=true&hide=TeX&layout=compact&langs_count=8)
 
-<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IoannisYpsilantis.IoannisYpsilantis)
+<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IoannisYpsilantis.IoannisYpsilantis)-->
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShlomoStept%2FShlomoStept&count_bg=%2385C8F7&title_bg=%23A1A2B0&icon=github.svg&icon_color=%23E7E7E7&title=Your+ViewCount&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShlomoStept%2FShlomoStept&count_bg=%2385C8F7&title_bg=%23A1A2B0&icon=github.svg&icon_color=%23E7E7E7&title=Your+ViewCount&edge_flat=false)](https://hits.seeyoufarm.com)-->
+
